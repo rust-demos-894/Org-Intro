@@ -1,7 +1,7 @@
 # Org-Intro
-Introduction, Category, and Menu for this Org.
-<br>本Org项目清单及分类(单击项目名进行传送)：
-<br>*  自己设计完成的项目<br>
+Introduction, Category, and Menu for this Org.<br>
+本Org项目清单及分类(单击项目名进行传送)：<br>
+* 自己设计完成的项目<br>
 > |名称|介绍|状态
 > |-|-|-
 > |**[Todo-Manager](https://github.com/rust-demos-894/Todo-Manager)**|使用serde的简单命令行工具，管理你的Todo|Done
